@@ -1,6 +1,6 @@
 *.pyc
 .git/
-.idea/
+.venv/
 .env/
 logs/*
 __pycache__/
